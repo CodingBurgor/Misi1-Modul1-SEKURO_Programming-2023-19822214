@@ -1,4 +1,3 @@
-### Rankuman video 1
 #### Version Control System
 **Version Control System**, disebut juga **revision control system** 
 atau **source code management** adalah sistem yang mengelola perubahan 
