@@ -1,4 +1,6 @@
 Rangkuman video ke 4 
+
+
 Fork/Forking
 - membuat copy/duplikat dari repo orang lain
 - jembatan antara repo original dan duplikatnnya
